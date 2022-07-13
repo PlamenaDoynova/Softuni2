@@ -1,0 +1,27 @@
+html{
+font-family:Helvetica, sans-serif;
+}
+body{
+    padding: 50px;
+}
+li {
+    list-style: none;
+    display: inline-block;
+    margin: 10px;
+}
+span{
+    font-weight: 700;
+    margin-right: 50px;
+    font-size: 40px;
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+    color: green;
+}
+ul{
+    padding: 0px;
+}
+nav{
+    display: inline-block;
+}
